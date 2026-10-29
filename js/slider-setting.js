@@ -67,7 +67,7 @@
 				},
 				viewPort: {
 					enable: true,
-					outof: "pause",
+					outof: "wait",
 					visible_area: "70%",
 					presize: false
 				},
